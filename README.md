@@ -16,6 +16,9 @@ The aim of the project was waste classification by using Deep Neural Networks. T
 * Waste classification with CNN model - **Waste_cnn.ipynb**
 * Waste Classification with data augmentation - **Waste_Augumentation.ipynb**
 * Waste Classification with transfer learning - **waste_transfer_learning.ipynb**
+
+## Streamlit App view
+![image](
  
 ## Technologies
 
