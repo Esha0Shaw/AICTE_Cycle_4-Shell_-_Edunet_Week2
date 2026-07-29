@@ -3,7 +3,7 @@
 ## General info
 The project contains waste classification with Convolutional Neural Networks (CNN) algorithms to determine if it may be recycle or not. The analysis has been made in three steps: the first includes data preparation and build model CNN to waste recognise, the second includes CNN model with data augumentation and the third used a transfer learning with pre-trained MobileNet V2 model  to achieve the better results.
 
-**I have created the application in Streamlit based on this trained CNN model and is available [here][https://github.com/Esha0Shaw/waste-app.git] . The code for this app is [here](https://github.com/aniass/Waste-app).**
+**I have created the application in Streamlit based on this trained CNN model and is available [here](https://github.com/Esha0Shaw/waste-app.git) . The code for this app is [here](https://github.com/Esha0Shaw/waste-app.git).**
 
 ### Dataset
 The dataset contains the 22500 images of organic and recyclable objects. It comes from Kaggle and can be find [here](https://www.kaggle.com/techsash/waste-classification-data).
